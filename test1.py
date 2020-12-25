@@ -14,13 +14,7 @@ def col(y):
 color = ['yellow','blue','green','red']
 
 
-'''
-for c in color:
-    col(c)
-    for i in range(360):
-        cir(i)
-        t.lt(i)
-  '''  
+
 
 print("fffffff")
 
