@@ -22,7 +22,7 @@ for c in color:
         t.lt(i)
   '''  
 
-
+print("fffffff")
 
 for i in range(360):
     for c in color:
