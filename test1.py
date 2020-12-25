@@ -16,7 +16,7 @@ color = ['yellow','blue','green','red']
 
 
 
-print("fffffff")
+print("fffffff555")
 
 for i in range(360):
     for c in color:
